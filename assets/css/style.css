@@ -254,7 +254,7 @@ div.container1{
 div.container1 > div{
     height: 200px;
     width: 300px;
-    border: 2px solid var(--primary1);
+    border: 2px solid var(--neutral4);
     padding: 20px;
     border-radius: 10px;
     color: var(--neutral4);
@@ -270,9 +270,9 @@ div#Expo{
 }
 
 div.container1 > div:hover{
-    background-color: var(--primary1);
+    background-color: var(--neutral5);
     background-blend-mode: multiply;
-    color: var(--neutral5);
+    color: var(--neutral1);
     border: 2px solid var(--neutral6);
     transform: translate(0%, 30%);
 }
